@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:compass",
+    {
+      "id": "#c:compasses",
+      "required": "false"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "loded",
+  "version": "${version}",
+  "name": "Loded",
+  "description": "Allows to copy lodestone compasses",
+  "authors": [
+    {
+      "name": "Nerjal Nosk",
+      "role": "developer",
+      "contact": {
+        "homepage": "https://github.com/NerjalNosk"
+      }
+    },
+    {
+      "name": "Recraftors Team",
+      "role": "owner",
+      "contact": {
+        "homepage": "https://github.com/RecraftorsMC"
+      }
+    }
+  ],
+  "contact": {
+    "homepage": "https://github.com/RecraftorsMC/loded",
+    "sources": "https://github.com/RecraftorsMC/loded",
+    "issues": "https://github.com/RecraftorsMC/loded/issues"
+  },
+  "license": "GNU GPL 3.0",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "loded.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "minecraft": ">=1.19"
+  }
+}
