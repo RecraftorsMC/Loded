@@ -4,7 +4,6 @@ import mc.recraftors.loded.Loded;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.item.CompassItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraft.screen.*;
 import net.minecraft.text.Text;
 import org.jetbrains.annotations.Nullable;
