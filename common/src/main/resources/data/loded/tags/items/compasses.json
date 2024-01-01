@@ -3,7 +3,7 @@
     "minecraft:compass",
     {
       "id": "#c:compasses",
-      "required": "false"
+      "required": false
     }
   ]
 }
